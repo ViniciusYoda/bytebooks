@@ -12,7 +12,7 @@ O ByteBooks apresenta um catálogo de livros de tecnologia, com função de busc
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
-Para a implementação do projeto foram utilizadas as seguintes técnicas e tecnologias:
+Para a implementação do projeto foram utilizadas as seguintes técnicas e tecnologias
 
 - React
 - TypeScript
